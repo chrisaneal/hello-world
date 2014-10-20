@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just a blah repository.
+Guys!
+
+My name is Chris. This is pretty dang fun. Pretty sure zombies are coming.
